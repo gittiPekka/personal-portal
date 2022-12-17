@@ -1,0 +1,441 @@
+{
+    "_id": ObjectId("6358fc172d9c12acec3a98e2"),
+    "name": "no_subject",
+    "links": [
+        {
+            "url": "https://areena.yle.fi/tv",
+            "name": "Areena",
+            "live": true,
+            "keywords": [
+                "TV",
+                "Yle",
+                "Internet"
+            ],
+            "picture": "/home/pekka/pictures/areena.png"
+        },
+        {
+            "url": "https://almanakka.helsinki.fi/fi/julkaisut/kalenteri-vuodelle-2022.html",
+            "name": "Almanakka",
+            "live": true,
+            "keywords": [
+                "Kalenteri",
+                "2022",
+                "Vuosi"
+            ],
+            "picture": "/home/pekka/pictures/almanakka.png"
+        },
+        {
+            "url": "https://duckduckgo.com/",
+            "name": "DukcDuckGo",
+            "live": true,
+            "keywords": [
+                "Hakukone",
+                "Tietosuoja",
+                "Internet"
+            ],
+            "picture": "/home/pekka/pictures/duckduckgo.png"
+        },
+        {
+            "url": "https://www.google.com/",
+            "name": "Google",
+            "live": true,
+            "keywords": [
+                "Hakukone",
+                "Haku",
+                "Internet"
+            ],
+            "picture": "/home/pekka/pictures/google.png"
+        },
+        {
+            "url": "https://www.fonecta.fi/",
+            "name": "Fonecta",
+            "live": true,
+            "keywords": [
+                "Hakupalvelu",
+                "Haku",
+                "Internet"
+            ],
+            "picture": "/home/pekka/pictures/fonecta.png"
+        }
+    ],
+    "index": 0,
+    "__v": 0
+}
+{
+    "_id": ObjectId("6358fc172d9c12acec3a98e3"),
+    "name": "Tavallinen",
+    "links": [
+        {
+            "url": "https://www.vr.fi/",
+            "name": "VR",
+            "live": true,
+            "keywords": [
+                "Matkustaminen",
+                "Loma",
+                "Lappi"
+            ],
+            "picture": "/home/pekka/pictures/vr.png"
+        },
+        {
+            "url": "https://www.iltapulu.fi/",
+            "name": "Iltapulu",
+            "live": true,
+            "keywords": [
+                "TV",
+                "Ohjelmat",
+                "Viihde"
+            ],
+            "picture": "/home/pekka/pictures/iltapulu.png"
+        },
+        {
+            "url": "https://www.suomienglantisanakirja.fi/#/haitari",
+            "name": "suomienglantisanakirja",
+            "live": true,
+            "keywords": [
+                "sanakirja",
+                "englanti",
+                "käännös"
+            ],
+            "picture": "/home/pekka/pictures/suomienglantisanakirja.png"
+        },
+        {
+            "url": "https://www.nysse.fi/",
+            "name": "Nysse",
+            "live": true,
+            "keywords": [
+                "Matkustaminen",
+                "Tampere",
+                "Liikenne"
+            ],
+            "picture": "/home/pekka/pictures/nysse.png"
+        },
+        {
+            "url": "https://www.ilmatieteenlaitos.fi/saa/tampere",
+            "name": "Sää",
+            "live": true,
+            "keywords": [
+                "Sää",
+                "Tampere",
+                "Ennuste"
+            ],
+            "picture": "/home/pekka/pictures/sää.png"
+        }
+    ],
+    "index": 1,
+    "__v": 0
+}
+{
+    "_id": ObjectId("6358fc172d9c12acec3a98e4"),
+    "name": "Yleinen",
+    "links": [
+        {
+            "url": "https://wisdomic.fi/millainen-on-hyva-salasana-ja-kuinka-usein-se-tulisi-vaihtaa/",
+            "name": "hyva-salasana",
+            "live": true,
+            "keywords": [
+                "Tietoturva",
+                "Tietotekniikka",
+                "Turvallisuus"
+            ],
+            "picture": "/home/pekka/pictures/salasana.png"
+        },
+        {
+            "url": "https://www.raspberrypi.com/documentation/computers/getting-started.html",
+            "name": "raspberrypi",
+            "live": true,
+            "keywords": [
+                "Tietotekniikka",
+                "Korttikone",
+                "Lähiverkko"
+            ],
+            "picture": "/home/pekka/pictures/raspberrypi.png"
+        },
+        {
+            "url": "https://kerneltips.com/add-applications-to-cinnamon-menu-in-linux-mint-20",
+            "name": "cinnamon-menu",
+            "live": true,
+            "keywords": [
+                "Mint",
+                "cinnamon",
+                "linux"
+            ],
+            "picture": "/home/pekka/pictures/cinnamon.png"
+        },
+        {
+            "url": "https://camel.apache.org/manual/faq/what-is-camel.html",
+            "name": "Camel",
+            "live": true,
+            "keywords": [
+                "Data",
+                "Integraatiot",
+                "Tietojärjestelmät"
+            ],
+            "picture": "/home/pekka/pictures/camel.png"
+        },
+        {
+            "url": "https://www.w3schools.com/jsref/jsref_reference.asp",
+            "name": "jsref",
+            "live": true,
+            "keywords": [
+                "JavaScript",
+                "scripting",
+                "reference"
+            ],
+            "picture": "/home/pekka/pictures/jsref.png"
+        }
+    ],
+    "index": 2,
+    "__v": 0
+}
+{
+    "_id": ObjectId("6358fc172d9c12acec3a98e5"),
+    "name": "Tietotekniikka",
+    "links": [
+        {
+            "url": "https://www.techwalla.com/articles/how-to-change-a-linux-password",
+            "name": "linux-password",
+            "live": true,
+            "keywords": [
+                "Tietoturva",
+                "Tietotekniikka",
+                "Linux"
+            ],
+            "picture": "/home/pekka/pictures/linuxpassword.png"
+        },
+        {
+            "url": "https://www.jimms.fi/",
+            "name": "jimms",
+            "live": true,
+            "keywords": [
+                "Tietotekniikka",
+                "Kaupat",
+                "tietokoneet"
+            ],
+            "picture": "/home/pekka/pictures/jimms.png"
+        },
+        {
+            "url": "https://www.mikrobitti.fi/",
+            "name": "mikrobitti",
+            "live": true,
+            "keywords": [
+                "Tietotekniikka",
+                "Lehdet",
+                "Internet"
+            ],
+            "picture": "/home/pekka/pictures/mikrobitti.png"
+        },
+        {
+            "url": "https://www.verkkokauppa.com/",
+            "name": "verkkokauppa.com",
+            "live": true,
+            "keywords": [
+                "tietotekniikka",
+                "Kaupat",
+                "tietokoneet"
+            ],
+            "picture": "/home/pekka/pictures/verkkokauppa.com.png"
+        },
+        {
+            "url": "https://www.speedtest.net/",
+            "name": "speedtest",
+            "live": true,
+            "keywords": [
+                "Verkko",
+                "Tietotekniikka",
+                "Nopeus"
+            ],
+            "picture": "/home/pekka/pictures/speedtest.png"
+        }
+    ],
+    "index": 3,
+    "__v": 0
+}
+{
+    "_id": ObjectId("6358fc172d9c12acec3a98e6"),
+    "name": "Opiskelu",
+    "links": [
+        {
+            "url": "https://www.w3schools.com/",
+            "name": "w3schools",
+            "live": true,
+            "keywords": [
+                "Tietojenkäsittely",
+                "Kehitys",
+                "Ohjelmointi"
+            ],
+            "picture": "/home/pekka/pictures/w3schools.png"
+        },
+        {
+            "url": "https://www.mooc.fi/en/",
+            "name": "mooc",
+            "live": true,
+            "keywords": [
+                "opiskelu",
+                "yliopisto",
+                "avoin"
+            ],
+            "picture": "/home/pekka/pictures/mooc.png"
+        },
+        {
+            "url": "https://ohjelmointi-22.mooc.fi/",
+            "name": "ohjelmointi-22",
+            "live": true,
+            "keywords": [
+                "Ohjelmointi",
+                "Peruskurssi",
+                "2022"
+            ],
+            "picture": "/home/pekka/pictures/ohjelmointi-22.png"
+        },
+        {
+            "url": "https://fullstackopen.com/",
+            "name": "fullstackopen",
+            "live": true,
+            "keywords": [
+                "Ohjelmointi",
+                "Web",
+                "React"
+            ],
+            "picture": "/home/pekka/pictures/fullstackopen.png"
+        },
+        {
+            "url": "https://www.verstasplus.com/",
+            "name": "verstasplus",
+            "live": true,
+            "keywords": [
+                "Ohjelmointi",
+                "Blogi",
+                "Verkko-opetus"
+            ],
+            "picture": "/home/pekka/pictures/verstasplus.png"
+        }
+    ],
+    "index": 4,
+    "__v": 0
+}
+{
+    "_id": ObjectId("6358fc172d9c12acec3a98e7"),
+    "name": "Kalastus",
+    "links": [
+        {
+            "url": "https://www.youtube.com/channel/UCefeuPyQU7nunW1Us1S0U2g",
+            "name": "kalastajankanava",
+            "live": true,
+            "keywords": [
+                "Kalastus",
+                "Youtube",
+                "Videot"
+            ],
+            "picture": "/home/pekka/pictures/kalastajankanava.png"
+        },
+        {
+            "url": "https://kalastus.com/forum",
+            "name": "kalastus.com",
+            "live": true,
+            "keywords": [
+                "Kalastus",
+                "Keskustelu",
+                "Internet"
+            ],
+            "picture": "/home/pekka/pictures/kalastus.com.png"
+        },
+        {
+            "url": "https://tampere.venepaikat.fi/ePermit/fi/Account",
+            "name": "venepaikat",
+            "live": true,
+            "keywords": [
+                "Kalastus",
+                "Veneet",
+                "Tampere"
+            ],
+            "picture": "/home/pekka/pictures/venepaikat.png"
+        },
+        {
+            "url": "https://kalastussuomi.fi/my-account/",
+            "name": "kalastussuomi",
+            "live": true,
+            "keywords": [
+                "Kalastus",
+                "Kaupat",
+                "Kalastusvälineet"
+            ],
+            "picture": "/home/pekka/pictures/kalastussuomi.png"
+        },
+        {
+            "url": "https://www.norgeskart.no/",
+            "name": "norgeskart",
+            "live": true,
+            "keywords": [
+                "Kalastus",
+                "Kartat",
+                "Norja"
+            ],
+            "picture": "/home/pekka/pictures/norgeskart.png"
+        }
+    ],
+    "index": 5,
+    "__v": 0
+}
+{
+    "_id": ObjectId("6358fc172d9c12acec3a98e8"),
+    "name": "Shakki",
+    "links": [
+        {
+            "url": "https://lichess.org/",
+            "name": "lichess",
+            "live": true,
+            "keywords": [
+                "Shakki",
+                "Pelipalvelin",
+                "Internet"
+            ],
+            "picture": "/home/pekka/pictures/lichess.png"
+        },
+        {
+            "url": "https://chess24.com/en",
+            "name": "chess24",
+            "live": true,
+            "keywords": [
+                "Shakki",
+                "Pelipalvelin",
+                "Internet"
+            ],
+            "picture": "/home/pekka/pictures/chess24.png"
+        },
+        {
+            "url": "https://www.freechess.org/",
+            "name": "fics",
+            "live": true,
+            "keywords": [
+                "Shakki",
+                "Pelipalvelin",
+                "Internet"
+            ],
+            "picture": "/home/pekka/pictures/fics.png"
+        },
+        {
+            "url": "https://www.chessanytime.com/index.html",
+            "name": "chessanytime",
+            "live": true,
+            "keywords": [
+                "Shakki",
+                "Pelipalvelin",
+                "Internet"
+            ],
+            "picture": "/home/pekka/pictures/chessanytime.png"
+        },
+        {
+            "url": "https://www.shakkiliitto.fi/joukkue-sm/",
+            "name": "jsm",
+            "live": true,
+            "keywords": [
+                "Shakki",
+                "Kilpailut",
+                "Joukkue"
+            ],
+            "picture": "/home/pekka/pictures/jsm.png"
+        }
+    ],
+    "index": 6,
+    "__v": 0
+}
