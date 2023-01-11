@@ -7,3 +7,4 @@
 | 17.12. | 1 | minor corrections |
 | 17.12. | 0 | workhours updated |
 | 30.12. | 80 |NodeJS-project founded. Controllers and Utils created. Additional queryfunctions written.|
+| 11.1. | 80 |React-project added.|
